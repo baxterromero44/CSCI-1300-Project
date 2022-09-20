@@ -1,0 +1,1 @@
+Punch,Kick,Fireball,Chidori,10,10,20,30

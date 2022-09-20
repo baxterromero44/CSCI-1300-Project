@@ -1,0 +1,3 @@
+Kakashi Hatake,Chidori,Sharingan,20,15,50
+Jiraiya the Toad Sage,Rasengan,Summoning Jutsu,20,15,100
+Sasuke Uchiha,Fireball,Chidori,20,15,200
